@@ -1,0 +1,4 @@
+En los países de habla inglesa es común dar la estatura de una persona como la suma de una cantidad entera de pies más una cantidad de pulgadas. Así, la estatura de una persona podría ser 3'2" (3 pies y 2 pulgadas). Crear un programa que determine la estatura de una persona en metros conociendo su estatura en formato inglés. Considerar 1 pie = 12pulgadas, 1 Pulgada = 2.53 cm.
+
+
+
